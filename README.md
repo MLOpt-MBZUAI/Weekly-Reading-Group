@@ -15,3 +15,17 @@ we obtain an Inception score of 9.46 and a state-of-the-art FID score of 3.17. O
 
 **Biography**
 xueran han
+
+---
+
+# Third Week Paper Sharing
+
+**Date**: July 21, 2025, 9:00 - 11:00 AM
+
+**Topic**: SDE Perspective of Diffusion Models, Controllable Generation, and Recent Advances
+
+This talk introduces diffusion models from the perspective of Stochastic Differential Equations (SDEs), explaining how continuous-time stochastic processes relate to discrete diffusion steps. It covers controllable generation techniques such as classifier guidance, classifier-free guidance, and conditional generation with various modalities. Additionally, the presentation highlights recent advances in diffusion models. The goal is to provide researchers and practitioners with a clear understanding of both theoretical foundations and practical approaches in diffusion-based generative modeling.
+
+**Biography**
+Zhenbang Zhang
+
