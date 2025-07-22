@@ -1,6 +1,6 @@
 # Weekly-Reading-Group
 ## First week paper sharing
-**Date**: 2025-06-30 9:00-11:00
+**Date**: 2025-06-30 9:00-11:00 AM
 
 **Topic**:Denoising Diffusion Probabilistic Models
 
@@ -18,9 +18,9 @@ xueran han
 
 ---
 
-# Third Week Paper Sharing
+## Third week paper sharing
 
-**Date**: July 21, 2025, 9:00 - 11:00 AM
+**Date**: 2025-07-21 9:00-11:00 AM
 
 **Topic**: SDE Perspective of Diffusion Models, Controllable Generation, and Recent Advances
 
