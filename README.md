@@ -24,7 +24,7 @@ xueran han
 
 **Topic**: SDE Perspective of Diffusion Models, Controllable Generation, and Recent Advances
 
-This talk introduces diffusion models from the perspective of Stochastic Differential Equations (SDEs), explaining how continuous-time stochastic processes relate to discrete diffusion steps. It covers controllable generation techniques such as classifier guidance, classifier-free guidance, and conditional generation with various modalities. Additionally, the presentation highlights recent advances in diffusion models. The goal is to provide researchers and practitioners with a clear understanding of both theoretical foundations and practical approaches in diffusion-based generative modeling.
+**Abstract**：This talk introduces diffusion models from the perspective of Stochastic Differential Equations (SDEs), explaining how continuous-time stochastic processes relate to discrete diffusion steps. It covers controllable generation techniques such as classifier guidance, classifier-free guidance, and conditional generation with various modalities. Additionally, the presentation highlights recent advances in diffusion models. The goal is to provide researchers and practitioners with a clear understanding of both theoretical foundations and practical approaches in diffusion-based generative modeling.
 
 **Biography**
 Zhenbang Zhang
