@@ -29,3 +29,15 @@ xueran han
 **Biography**
 Zhenbang Zhang
 
+## Fourth week paper sharing
+
+**Date**: 2025-07-28 9:00-11:00 AM
+
+**Topic**: Geometric graph, Generalization analysis, Manifold hypothesis, GNNs, VAE
+
+**Abstract** We propose a graph semi-supervised learning framework for classification tasks on data manifolds. Motivated by the manifold hypothesis, we model data as points sampled from a low-dimensional manifold $M \subset \mathbb{R}^F$.
+The manifold is approximated in an unsupervised manner using a Variational Autoencoder (VAE), where the trained encoder maps data to embeddings that represent their coordinates in $\mathbb{R}^F$. A geometric graph is constructed with Gaussian-weighted edges inversely proportional to distances in the embedding space, transforming the point classification problem into a semi-supervised node classification task on the graph. This task is solved using a Graph Neural Network (GNN). Our main contribution is a theoretical analysis of the statistical generalization properties of this data → manifold → graph pipeline. We prove that, under uniform sampling from $M$, the generalization gap of the semi-supervised task diminishes as the graph size increases, up to the GNN training error.
+Moreover, by employing a training procedure that resamples a slightly larger graph at regular intervals, we demonstrate that the generalization gap can be reduced further—vanishing asymptotically. Finally, we validate our findings through numerical experiments on image classification benchmarks, showing the empirical effectiveness of our approach.
+
+**Biography**
+Kailong Zhao
