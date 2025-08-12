@@ -29,3 +29,13 @@ xueran han
 **Biography**
 Zhenbang Zhang
 
+## Sixth week paper sharing
+
+**Date**: 2025-08-12 10:00-12:00 AM
+
+**Topic**: CSML2025 conference receiving and sharing
+
+**Abstract**:This talk provides a comprehensive summary of key presentations and discussions from the CSML Conference. Link: https://drive.google.com/drive/folders/1jckrudrNssQfbZVc9Yih-kEndx4LcQGL?usp=drive_link
+
+**Biography**
+Zhengquan Luo, Xueran Han, and Hualin Zhang
